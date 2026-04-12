@@ -8,11 +8,9 @@ with open(file_path, "rb") as f:
  
 # Use PyMuPDF to extract text
 doc = fitz.open("pdf", pdf_bytes)
- 
 text = ""
 for page in doc:
     text += page.get_text()
- 
 print(text)  # Print first 1000 characters
  
  
