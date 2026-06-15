@@ -1,7 +1,7 @@
 # Complete Data Bricks High Level Notes
 
 ## Data Storage and Processing Architecture
-![alt text](image.png)
+![alt text](Images/image.png)
 
 ## Document Processing Challenges
 ![alt text](image-1.png)
