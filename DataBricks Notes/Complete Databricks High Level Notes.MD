@@ -1,4 +1,4 @@
-Data Bricks Compelete High Level Notes
+# Complete Data Bricks High Level Notes
 
 ## Data Storage and Processing Architecture
 ![alt text](image.png)
