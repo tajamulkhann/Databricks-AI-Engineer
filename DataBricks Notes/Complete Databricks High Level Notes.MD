@@ -15,6 +15,5 @@ Data Bricks Compelete High Level Notes
 
 ## Embedding Models: 
  This illustration demonstrates how data chunks are processed by an embedding model to generate vectors. If the input data exceeds the model's context window limit, the excess content is omitted, which can impact the completeness of the resulting embeddings.
-
 ![alt text](image-4.png)
 
