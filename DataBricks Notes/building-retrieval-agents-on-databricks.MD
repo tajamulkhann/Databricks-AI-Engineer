@@ -1,4 +1,4 @@
-# Complete Data Bricks High Level Notes
+# Building retrieval agents on databricks
 
 ## Data Storage and Processing Architecture
 ![alt text](Images/image.png)
